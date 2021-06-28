@@ -1,0 +1,16 @@
+# Developing files
+.git
+.gitignore
+.dockerignore
+.prettierrc
+.eslintrc.js
+
+# Running folders
+dist
+node_modules
+coverage
+test
+
+# Non-production files
+Dockerfile
+README.md
